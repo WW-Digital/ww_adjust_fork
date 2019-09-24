@@ -93,7 +93,7 @@
 }
 
 - (NSString *)adjFbAttributionId {
-    return @""
+    return @"";
 }
 
 - (NSString *)adjFbAnonymousId {
